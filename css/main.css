@@ -146,11 +146,11 @@ header .bg-pattern-mobile {
   margin-bottom: 5em;
 }
 
-.section1 #sub-section h1 {
+.section1 #sub-section h2 {
   font-weight: 900;
 }
 
-.section1 #sub-section h2 {
+.section1 #sub-section h3 {
   font-weight: 200;
   font-size: 1.1rem;
   padding-left: 1em;
@@ -165,7 +165,7 @@ header .bg-pattern-mobile {
   padding-bottom: 3em;
 }
 
-.section1 .stay-productive-txt h2 {
+.section1 .stay-productive-txt h3 {
   text-align: left;
   font-weight: 100;
   font-size: 1.1rem;
@@ -256,7 +256,7 @@ header .bg-pattern-mobile {
   margin-bottom: 2em;
 }
 
-.section2 .sub-section2 h2 {
+.section2 .sub-section2 h3 {
   font-weight: 100;
   font-size: 1rem;
   text-align: left;
@@ -276,14 +276,14 @@ header .bg-pattern-mobile {
   gap: 1em;
 }
 
-.section2 .sub-section2 .profile h1 {
+.section2 .sub-section2 .profile h4 {
   text-align: left;
   padding: 0;
   margin: 0;
   font-size: 0.9rem;
 }
 
-.section2 .sub-section2 .profile h2 {
+.section2 .sub-section2 .profile h5 {
   padding: 0;
   margin: 0;
   font-size: 0.8rem;
@@ -307,12 +307,12 @@ header .bg-pattern-mobile {
   height: 260px;
 }
 
-.section3 h1 {
+.section3 h2 {
   margin: 0;
   font-size: 1rem;
 }
 
-.section3 h2 {
+.section3 h3 {
   font-weight: 100;
   font-size: 0.95rem;
 }
@@ -373,7 +373,7 @@ footer {
   margin-top: -15em;
 }
 
-footer h1 {
+footer h2 {
   font-weight: 100;
   font-size: 0.8rem;
   padding: 0;
@@ -493,7 +493,7 @@ footer .footer-links li:hover {
     -webkit-column-gap: 3em;
             column-gap: 3em;
   }
-  .section1 h1 {
+  .section1 h2 {
     margin: 1em 0 0 0;
   }
   .section1 .sub-section1 {
