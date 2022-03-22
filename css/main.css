@@ -141,16 +141,16 @@ header .bg-pattern-mobile {
   background: linear-gradient(60deg, #65e2d9, rgba(51, 158, 204, 0.5));
 }
 
-.section1 #sub-section {
+.section1 .sub-sectiona {
   margin-top: 6.5em;
   margin-bottom: 5em;
 }
 
-.section1 #sub-section h2 {
+.section1 .sub-sectiona h2 {
   font-weight: 900;
 }
 
-.section1 #sub-section h3 {
+.section1 .sub-sectiona h3 {
   font-weight: 200;
   font-size: 1.1rem;
   padding-left: 1em;
